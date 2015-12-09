@@ -15,7 +15,7 @@ Ismael Rodríguez Hernández | 587429 | [repo](https://github.com/ismaro3/Labora
 Jorge Martinez Lascorz | 571735 | [repo](https://github.com/JorgeCoke/Laboratory-5-SOA)
 David Nicuesa Aranda | 653224 | [repo](https://github.com/Nicu1309/Laboratory-5-SOA)
 Eduardo Ibanez | 528074
-Sergio Soro Miranda | 671250
+Sergio Soro Miranda | 671250 | [repo](https://github.com/teruyi/Laboratory-5-SOA)
 Alberto Álvarez Aldea | 681687
 Oscar Clemente Pedrico | 530162
 Iñigo Gascón Royo | 685215
